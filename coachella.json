@@ -1,20 +1,28 @@
 {
-"items": [
-{
-"title": "amp-carousel",
-"url": "/components/amp-carousel/"
-},
-{
-"title": "amp-img",
-"url": "/components/amp-img/"
-},
-{
-"title": "amp-ad",
-"url": "/components/amp-ad/"
-},
-{
-"title": "amp-accordion",
-"url": "/components/amp-accordion/"
-}
-]
+  "items": [
+    {
+      "name": "User Name",
+      "screen_name": "screen_name",
+      "time": "2:22 PM",
+      "date": "May 11, 2018",
+      "text": "This Week in Twitter Videos: So *that's* how calendars work? We laughed at dogs, swooned over engagements, and questioned everything because of one kid and a calendar.",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/898436619245543424/661Ba0Vb_normal.jpg"
+    },
+    {
+      "name": "User Name",
+      "screen_name": "screen_name",
+      "time": "2:22 PM",
+      "date": "May 11, 2018",
+      "text": "This Week in Twitter Videos: So *that's* how calendars work? We laughed at dogs, swooned over engagements, and questioned everything because of one kid and a calendar.",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/898436619245543424/661Ba0Vb_normal.jpg"
+    },
+    {
+      "name": "User Name",
+      "screen_name": "screen_name",
+      "time": "2:22 PM",
+      "date": "May 11, 2018",
+      "text": "This Week in Twitter Videos: So *that's* how calendars work? We laughed at dogs, swooned over engagements, and questioned everything because of one kid and a calendar.",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/898436619245543424/661Ba0Vb_normal.jpg"
+    }
+  ]
 }
