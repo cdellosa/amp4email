@@ -1,0 +1,40 @@
+{
+	"Sports" : [
+		"World Cup 2018",
+		"NFL",
+		"NBA",
+		"MLB",
+		"Soccer",
+		"NHL",
+		"Nascar",
+		"WWE",
+		"MMA",
+		"Golf",
+		"Tennis"
+		"UFC"
+	],
+	"News" : [
+		"Weather",
+		"History",
+		"Politics",
+		"Health",
+		"General News",
+		"Business & Finance",
+		"US News",
+		"World News",
+		"Technology",
+		"Science"
+	],
+	"Music" : [
+		"Pop",
+		"Hip-hop/Rap",
+		"Country",
+		"Latino Music",
+		"R&B/Soul",
+		"Classic Rock",
+		"Dance/Electronic",
+		"Metal",
+		"Rock/Alt",
+		"Indie/Experimental"
+	]
+}
