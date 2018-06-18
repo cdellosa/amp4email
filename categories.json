@@ -1,42 +1,52 @@
 {
-	"categories" : {
-		"Sports" : [
-			"World Cup 2018",
-			"NFL",
-			"NBA",
-			"MLB",
-			"Soccer",
-			"NHL",
-			"Nascar",
-			"WWE",
-			"MMA",
-			"Golf",
-			"Tennis"
-			"UFC"
-		],
-		"News" : [
-			"Weather",
-			"History",
-			"Politics",
-			"Health",
-			"General News",
-			"Business & Finance",
-			"US News",
-			"World News",
-			"Technology",
-			"Science"
-		],
-		"Music" : [
-			"Pop",
-			"Hip-hop/Rap",
-			"Country",
-			"Latino Music",
-			"R&B/Soul",
-			"Classic Rock",
-			"Dance/Electronic",
-			"Metal",
-			"Rock/Alt",
-			"Indie/Experimental"
-		]
-	}
+  "items": [
+		{ 
+			"name" : "World Cup 2018",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "NFL",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "NBA",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "MLB",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "Soccer",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "NHL",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "Nascar",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "WWE",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "MMA",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "Golf",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "Tennis",
+			"image" : "https://picsum.photos/150/150/?random"
+		},
+		{ 
+			"name" : "UFC",
+			"image" : "https://picsum.photos/150/150/?random"
+		}
+  ]
 }
